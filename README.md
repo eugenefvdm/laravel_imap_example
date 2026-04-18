@@ -1,4 +1,4 @@
-# Laravael-IMAP Example Application
+# Laraval-IMAP Example Application
 
 This is an example application to showcase the integration of `webklex/laravel-imap`.
 
